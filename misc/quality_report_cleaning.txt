@@ -1,0 +1,378 @@
+Column: scheduled
+No missing entries
+
+Column: attendance
+No data in rows: [575, 806]
+Average used for nulls: 68946
+
+Column: conference_game
+Unique values:
+FALSE
+TRUE
+No missing entries
+
+Column: weather_cond
+No data in rows: [153, 457, 506, 697, 835, 925, 1030, 1040, 1218, 1244, 1322]
+Replaced nulls with Unknown
+
+Column: weather_hum
+No missing entries
+
+Column: weather_temp
+No missing entries
+
+Column: wind_speed
+No missing entries
+
+Column: season_year
+Unique values:
+2021
+2022
+2023
+2024
+2025
+No missing entries
+
+Column: week
+Unique values:
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+2
+3
+4
+5
+6
+7
+8
+9
+No missing entries
+
+Column: venue_name
+No missing entries
+
+Column: surface
+Unique values:
+artificial
+turf
+No missing entries
+
+Column: roof
+Unique values:
+dome
+outdoor
+retractable_dome
+No missing entries
+
+Column: home_name
+No missing entries
+
+Column: home_market
+No missing entries
+
+Column: home_alias
+No missing entries
+
+Column: home_timeouts_used
+Unique values:
+0
+1
+2
+3
+4
+No missing entries
+
+Column: home_points
+No missing entries
+
+Column: home_challenges_used
+Unique values:
+0
+1
+2
+3
+No missing entries
+
+Column: home_wins
+Unique values:
+0
+1
+10
+11
+12
+13
+14
+15
+2
+3
+4
+5
+6
+7
+8
+9
+No missing entries
+
+Column: home_losses
+Unique values:
+0
+1
+10
+11
+12
+13
+14
+15
+2
+3
+4
+5
+6
+7
+8
+9
+No missing entries
+
+Column: home_ties
+Unique values:
+0
+1
+No missing entries
+
+Column: away_name
+No missing entries
+
+Column: away_market
+No missing entries
+
+Column: away_alias
+No missing entries
+
+Column: away_timeouts_used
+Unique values:
+0
+1
+2
+3
+No missing entries
+
+Column: away_points
+No missing entries
+
+Column: away_challenges_used
+Unique values:
+0
+1
+2
+3
+No missing entries
+
+Column: away_wins
+Unique values:
+0
+1
+10
+11
+12
+13
+14
+15
+2
+3
+4
+5
+6
+7
+8
+9
+No missing entries
+
+Column: away_losses
+Unique values:
+0
+1
+10
+11
+12
+13
+14
+15
+2
+3
+4
+5
+6
+7
+8
+9
+No missing entries
+
+Column: away_ties
+Unique values:
+0
+1
+No missing entries
+
+Column: h_poss_time
+No missing entries
+
+Column: h_avg_gain
+No missing entries
+
+Column: h_safeties
+Unique values:
+0
+1
+No missing entries
+
+Column: h_turnovers
+Unique values:
+0
+1
+2
+3
+4
+5
+6
+No missing entries
+
+Column: h_play_count
+No missing entries
+
+Column: h_rush_plays
+No missing entries
+
+Column: h_total_yards
+No missing entries
+
+Column: h_fumbles
+Unique values:
+0
+1
+2
+3
+4
+5
+No missing entries
+
+Column: h_lost_fumbles
+Unique values:
+0
+1
+2
+3
+4
+No missing entries
+
+Column: h_penalties
+Unique values:
+0
+1
+10
+11
+12
+13
+14
+17
+2
+3
+4
+5
+6
+7
+8
+9
+No missing entries
+
+Column: h_penalty_yards
+No missing entries
+
+Column: h_return_yards
+No missing entries
+
+Column: a_poss_time
+No missing entries
+
+Column: a_avg_gain
+No missing entries
+
+Column: a_safeties
+Unique values:
+0
+1
+2
+No missing entries
+
+Column: a_turnovers
+Unique values:
+0
+1
+2
+3
+4
+5
+6
+No missing entries
+
+Column: a_play_count
+No missing entries
+
+Column: a_rush_plays
+No missing entries
+
+Column: a_total_yards
+No missing entries
+
+Column: a_fumbles
+Unique values:
+0
+1
+2
+3
+4
+5
+6
+No missing entries
+
+Column: a_lost_fumbles
+Unique values:
+0
+1
+2
+3
+4
+No missing entries
+
+Column: a_penalties
+Unique values:
+0
+1
+10
+11
+12
+13
+14
+16
+19
+2
+3
+4
+5
+6
+7
+8
+9
+No missing entries
+
+Column: a_penalty_yards
+No missing entries
+
+Column: a_return_yards
+No missing entries
