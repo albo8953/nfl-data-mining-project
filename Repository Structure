@@ -1,0 +1,19 @@
+project/
+│
+├── data/
+│   ├── raw/               # Original datasets
+│   ├── processed/         # Cleaned datasets
+│
+├── misc/
+│   ├── plots/             # All generated visualizations
+│   ├── outputs/           # All Outputs
+|
+├── Scripts/
+|    ├── NFL_DM_GRP09_2021_2025NFL_PlayByPlayDataMining+Visualization.ipynb # Full visualization analysis notebook
+|    ├── clean_csv.py
+|    ├── create_csv.sh
+|    ├── get_games.sh
+|    ├── get_schedules.sh
+|
+├── README.md              # Project documentation
+└── requirements.txt       # Python dependencies
