@@ -1,9 +1,9 @@
-/NFL Data Mining & Game Analytics Project/
+## /NFL Data Mining & Game Analytics Project/
 
 This project applies data‑mining and statistical modeling techniques to historical NFL play‑by‑play and game‑level data to uncover the factors that most strongly influence game outcomes. The analysis focuses on offensive efficiency, defensive performance, turnovers, environmental conditions, and situational metrics, with the goal of understanding how these variables shape scoring and win probability.
 The work combines exploratory data analysis, feature engineering, visual storytelling, and predictive modeling to build a comprehensive, data‑driven perspective on what drives success in professional football.
 
-Project Objectives - 
+*Project Objectives* - 
 
 The project investigates ten core questions that span performance, environment, scheduling, and predictive modeling:
 - Can we predict the winner of an NFL game?
@@ -28,7 +28,7 @@ Quarter‑level scoring patterns reveal whether early, mid‑game, or late scori
 Total yards, rushing vs passing splits, and opponent yardage allowed are compared to understand offensive production’s role in winning.
 Together, these questions form a complete analytical framework for understanding NFL performance from multiple angles.
 
-Analysis & Visualizations -
+*Analysis & Visualizations* -
 
 The notebook includes a full suite of visual analyses:
 - Home vs Away performance
@@ -40,8 +40,9 @@ Turnovers, possession time, rush/pass efficiency, logistic‑style win‑probabi
 - Season‑level trends
 Average total points by year.
 These plots help reveal how conditions, efficiency, and discipline shape game outcomes.
+Jupyter Notebook - NFL_DM_GRP09_2021_2025NFL_PlayByPlayDataMining+Visualization.ipynb (- in scripts). 
 
-Modeling Approach - 
+*Modeling Approach* - 
 
 A logistic‑style model is used to estimate win probability using:
 - Total yards
@@ -54,7 +55,7 @@ A logistic‑style model is used to estimate win probability using:
 - Situational metrics
 Feature curves visualize how each predictor shifts the probability of winning, helping identify the most influential variables.
 
- Key Insights - 
+ *Key Insights* - 
  
 - Turnovers are one of the strongest negative predictors of winning.
 - Total yards strongly correlate with victory and appear consistently in top feature rankings.
@@ -63,7 +64,7 @@ Feature curves visualize how each predictor shifts the probability of winning, h
 - Possession time correlates with winning but is not decisive alone.
 - Scoring trends vary across seasons, reflecting changes in league style and rules.
 
-Future Extensions - 
+*Future Extensions* - 
 
 - Incorporate EPA/WPA metrics from play‑by‑play data
 - Build a full win‑probability model
@@ -71,14 +72,14 @@ Future Extensions -
 - Deploy an interactive dashboard (Plotly/Streamlit)
 - Automate data pipelines for continuous updates
 
-Reproducibility - 
+*Reproducibility* - 
 
 To run the project:
 - Clone the repository
 git clone https://github.com/albo8953/nfl-data-mining-project
 - Install dependencies
 pip install -r requirements.txt
-- Open the notebook in "scripts"
+- Open the notebook, present in "scripts".
 - Run all cells to reproduce the analysis and visualizations.
 
 
