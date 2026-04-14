@@ -10,6 +10,7 @@ project/
 |
 ├── Scripts/
 |    ├── NFL_DM_GRP09_2021_2025NFL_PlayByPlayDataMining+Visualization.ipynb # Full visualization analysis notebook
+|    ├── NFL_GRP09_DataMining_Model_Implementation.ipynb
 |    ├── clean_csv.py
 |    ├── create_csv.sh
 |    ├── get_games.sh
